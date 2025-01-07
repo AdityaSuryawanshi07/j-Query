@@ -16,5 +16,5 @@ $(selector).action()  ---
 * A $ sign to define or access jQuery.
 * A (selector) to "to find" HMTL elements.
 * A j-Query action() to be performed on the elements(s).
-        eg:-  1. $("h1").hide()   -  it is used to hide all h1 elements.
-              2. $(".test").hide()  - it is used to hide elements with class test.
+<br/>    eg:-  1. $("h1").hide()   -  it is used to hide all h1 elements.
+<br/>          2. $(".test").hide()  - it is used to hide elements with class test.
